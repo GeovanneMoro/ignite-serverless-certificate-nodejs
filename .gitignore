@@ -7,11 +7,7 @@ jspm_packages
 
 # Webpack directories
 .webpack
-
 .env
-
 yarn-error.log
-
 .dynamodb
-
 pdf
